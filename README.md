@@ -1,5 +1,5 @@
 # Discord Raid Tool
-![](https://raw.githubusercontent.com/RustyBalboadev/Discord-Raid-Tool/master/discordraid.png)
+![](https://raw.githubusercontent.com/lefearr/Discord-Raid-Tool/master/discordraid.png)
 # Usage 🔧
 * Place in a folder that contains a text file named "tokens" this is where you'll be placing all your tokens **make sure each token is seperated by a new line**
 
